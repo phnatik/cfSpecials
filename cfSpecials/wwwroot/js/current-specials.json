@@ -1,0 +1,24 @@
+[
+  {
+    "SpecialID": "0001",
+    "vTitle": "2019 Ford F-150 XLT",
+    "Condition": "New",
+    "MSRP": "47995",
+    "FinalPrice": "37995",
+    "TotalSavings": "10000",
+    "StockNumber": "123456",
+    "VIN": "12345678987456563",
+    "OrderNumber": "0"
+  },
+  {
+    "SpecialID": "0002",
+    "vTitle": "2019 Ford F-150 XLT",
+    "Condition": "New",
+    "MSRP": "47995",
+    "FinalPrice": "37995",
+    "TotalSavings": "10000",
+    "StockNumber": "123456",
+    "VIN": "12345678987456563",
+    "OrderNumber": "1"
+  }
+]
