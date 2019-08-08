@@ -3,33 +3,36 @@
     "SpecialID": "0001",
     "vTitle": "2019 Ford F-150 XLT",
     "Condition": "New",
-    "MSRP": "47995",
-    "FinalPrice": "37995",
-    "TotalSavings": "10000",
-    "StockNumber": "123456",
-    "VIN": "12345678987456563",
-    "OrderNumber": "0"
+    "MSRP": "46315",
+    "FinalPrice": "34150",
+    "TotalSavings": "12165",
+    "ImageSrc": "https://content.homenetiol.com/2002088/2147003/0x0/eb10905574dc42d6b67c84d7693a30c8.jpg",
+    "StockNumber": "2182447",
+    "VIN": "1FTEW1C57JKF34989",
+    "OrderNumber": "2"
   },
   {
     "SpecialID": "0002",
     "vTitle": "2019 Ford F-150 XLT",
     "Condition": "New",
-    "MSRP": "47995",
-    "FinalPrice": "37995",
-    "TotalSavings": "10000",
-    "StockNumber": "123456",
-    "VIN": "12345678987456563",
-    "OrderNumber": "1"
+    "MSRP": "46315",
+    "FinalPrice": "32650",
+    "TotalSavings": "13665",
+    "ImageSrc": "https://content.homenetiol.com/2002088/2147003/0x0/6b5cb23b1ee149fba1e8befb7228c927.jpg",
+    "StockNumber": "2182715",
+    "VIN": "1FTEW1C55JKF73354",
+    "OrderNumber": "0"
   },
   {
     "SpecialID": "0003",
     "vTitle": "2019 Ford F-150 XLT",
     "Condition": "New",
-    "MSRP": "47995",
-    "FinalPrice": "37995",
-    "TotalSavings": "10000",
-    "StockNumber": "123456",
-    "VIN": "12345678987456563",
-    "OrderNumber": "2"
+    "MSRP": "45965",
+    "FinalPrice": "32925",
+    "TotalSavings": "12940",
+    "ImageSrc": "https://content.homenetiol.com/2002088/2147003/0x0/2de621b7ac2946b9bcc5adda57720931.jpg",
+    "StockNumber": "2182201",
+    "VIN": "1FTEW1CP3JKF03045",
+    "OrderNumber": "1"
   }
 ]

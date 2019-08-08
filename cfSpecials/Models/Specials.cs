@@ -16,6 +16,7 @@ namespace cfSpecials.Models
         public string MSRP { get; set; }
         public string FinalPrice { get; set; }
         public string TotalSavings { get; set; }
+        public string ImageSrc { get; set; }
         public string StockNumber { get; set; }
         public string VIN { get; set; }
         public string OrderNumber { get; set; }

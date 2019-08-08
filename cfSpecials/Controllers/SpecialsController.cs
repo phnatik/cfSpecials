@@ -16,7 +16,7 @@ namespace cfSpecials.Controllers
         public IActionResult Index()
         {
             // need to read the data from file and json that mofo
-            string path = @"C:\Users\andru\source\repos\cfSpecials\cfSpecials\wwwroot\js\current-specials.json";
+            string path = @"C:\Users\andru\source\repos\phnatik\cfSpecials\cfSpecials\wwwroot\js\current-specials.json";
 
             //string data = System.IO.File.ReadAllText(path, Encoding.UTF8);
 
@@ -30,7 +30,15 @@ namespace cfSpecials.Controllers
         // Modifiers(private/public) ReturnType Methodname ArgList
         //public IActionResult SetData(Specials obj)
         //{
-            
+
         //}
+
+        [Route("Specials/update-specials")]
+        public IActionResult UpdateSpecials()
+        {
+            return View();
+        }
+
     }
+
 }

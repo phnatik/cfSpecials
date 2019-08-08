@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andru\\source\\repos\\cfSpecials\\cfSpecials\\cfSpecials.csproj": {}
+    "C:\\Users\\andru\\Source\\Repos\\phnatik\\cfSpecials\\cfSpecials\\cfSpecials.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andru\\source\\repos\\cfSpecials\\cfSpecials\\cfSpecials.csproj": {
+    "C:\\Users\\andru\\Source\\Repos\\phnatik\\cfSpecials\\cfSpecials\\cfSpecials.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andru\\source\\repos\\cfSpecials\\cfSpecials\\cfSpecials.csproj",
+        "projectUniqueName": "C:\\Users\\andru\\Source\\Repos\\phnatik\\cfSpecials\\cfSpecials\\cfSpecials.csproj",
         "projectName": "cfSpecials",
-        "projectPath": "C:\\Users\\andru\\source\\repos\\cfSpecials\\cfSpecials\\cfSpecials.csproj",
+        "projectPath": "C:\\Users\\andru\\Source\\Repos\\phnatik\\cfSpecials\\cfSpecials\\cfSpecials.csproj",
         "packagesPath": "C:\\Users\\andru\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andru\\source\\repos\\cfSpecials\\cfSpecials\\obj\\",
+        "outputPath": "C:\\Users\\andru\\Source\\Repos\\phnatik\\cfSpecials\\cfSpecials\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

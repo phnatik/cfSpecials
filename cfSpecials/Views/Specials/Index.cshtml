@@ -1,6 +1,28 @@
-﻿@model cfSpecials.Models.Specials
+﻿@model List<cfSpecials.Models.Specials>
 
 
 @{
     ViewData["Title"] = "Specials Page";
+}
+
+
+@{ 
+    foreach (var data in Model.OrderBy(i => i.OrderNumber))
+    {
+
+        // this needs to be 2 columns
+        <img src="@(data.ImageSrc)" style="max-width: 300px; display: block" />
+        <p>@(data.SpecialID)</p>
+        <p>@(data.OrderNumber)</p>
+        <a href="https://www.covertford.com/inventory/vdp?vin=@(data.VIN)" target="_blank">View Vehicle Details</a>
+        
+    }
+}
+
+@section scripts {
+
+    <script>
+        
+    </script>
+
 }
